@@ -1,6 +1,6 @@
 # Financial-Services 
 ### Hackathon Competition on Zindi Africa
-This Hackathon is a pre-qualification criteria for the Data Science AI Bootcamp 2020
+This Hackathon is a pre-qualification criteria for the Data Science Nigeria AI Bootcamp 2020
 
 ## About this Project 
 Kowope Mart is a Nigerian-based retail company with a vision to provide quality goods, education and automobile services to its customers at affordable price and reduce if not eradicate charges on card payments and increase customer satisfaction with credit rewards that can be used within the Mall. 
